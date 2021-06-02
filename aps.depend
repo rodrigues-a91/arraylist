@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619303154 source:c:\users\carlinhos\documents\faculdade\estrutura de dados\aps\main.cpp
+	<cstdlib>
+	<iostream>
+	<ArrayList.h>
+
+1619302062 c:\users\carlinhos\documents\faculdade\estrutura de dados\aps\include\arraylist.h
+	<iostream>
+
